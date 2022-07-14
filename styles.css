@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    color: #333333;
+  }
+  #main {
+    background-color: #eeee;
+  
+    font-family: sans-serif;
+    border-radius: 5px;
+    text-align: center;
+  }
+  #img-div {
+    background-color: white;
+    margin: 20px;
+  }
+  
+  #title {
+    padding-top: 40px;
+    font-size: 45px;
+  }
+  .wordwrap {
+    display: flex;
+    justify-content: center;
+  }
+  .text {
+    width: 670px;
+    text-align: left;
+  }
+  .clear {
+    clear: both;
+  }
+  ul li {
+    margin-bottom: 1.5em;
+    line-height: 1.3em;
+  }
+  .link {
+    padding-bottom: 30px;
+    padding-top: 20px;
+  }
+  #img-caption {
+    padding-bottom: 18px;
+  }
+  
